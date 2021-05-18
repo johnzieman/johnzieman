@@ -1,3 +1,3 @@
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnzieman&theme=radical&layout=compact)
-
+<a href="https://github.com/johnzieman/johnzieman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnzieman&html&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=#FFFFFF" />
+</>
